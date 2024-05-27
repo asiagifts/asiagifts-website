@@ -304,19 +304,6 @@ section {
     padding-top: 0.3rem;
 }
 
-.school {
-    font-size:medium;
-    font-weight: 900;
-    color: black;
-}
-
-.degree {
-    display: inline-flex;
-    padding-top: 1.25rem;
-    font-size: small;
-    font-style: oblique;
-}
-
 .experience-list-item {
     display:block;
 }
